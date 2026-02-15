@@ -44,13 +44,7 @@ Nature-Image-Gallery/
 
 
 
-Author
+# Author
 
 Dharshika R
 
-
----
-
-If you want, Dharsh, I can make a slightly more stylish README with badges, colors, and a live demo link section, so it looks super professional on GitHub.
-
-Do you want me to do that?
